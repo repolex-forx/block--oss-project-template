@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "oss-project-template",
+  "versions": [
+    {
+      "commit": "f306ac12f63b07b8920c7b47dbe3996adfc2f31c",
+      "parsed_at": "2026-11-21T22:58:08.623779+00:00",
+      "tag": "main",
+      "filetree": "filetree/f306ac12f63b07b8920c7b47dbe3996adfc2f31c.nq.gz",
+      "blobs": [
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/862ee3c28647e7a58801a75236855c269c1448ae.nq.gz",
+        "blob/0ba9db25329d0b336e39ca8cde8470c5b7bc45eb.nq.gz",
+        "blob/4bc7ee849568bb68b0939028e17a5dcaa894ebab.nq.gz",
+        "blob/21ecf13a6fc9700d6494b5a930d156bd547e15c7.nq.gz",
+        "blob/25f0bc5ed80683a81f46e6bfd1cf8ea0b56c6807.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
